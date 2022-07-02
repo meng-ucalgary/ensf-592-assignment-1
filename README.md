@@ -1,12 +1,14 @@
-# :wave: The Basics of GitHub
+# ENSF-592 Assignment 1
 
 ## Name
+
 Bhavyai Gupta
 
 ## Inspirational Quote
+
 > Take up one idea. Make that one idea your Life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.
 >
-> *- by Swami Vivekananda*
+> _- by Swami Vivekananda_
 
 ## 🤓 Course overview and learning outcomes
 
@@ -40,7 +42,6 @@ Adding someone as a reviewer on your pull request is a signal to them that you w
 
 To learn more about pull request, read ["About Pull Requests"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
-
 ### Issues
 
 Use issues to track enhancements, tasks, or bugs for your work on GitHub. Issues are a great way to keep track of all the tasks you want to work on for your project and let others know what you plan to work on. For larger projects, you can keep track of many issues on a project board. GitHub Projects help you organize and prioritize your work and you can read more about them [in this "About Project boards document](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards).
@@ -69,7 +70,7 @@ The GitHub community is vast. There are many types of people who use GitHub in t
 
 If you find a repository interesting or you want to keep track of it, star it! When you star a repository it’s also used as a signal to surface better recommendations on github.com/explore. If you’d like to get back to your starred repositories you can do so via your user profile.
 
-To learn  more about starring repositories, read ["Saving Repositories with Stars"](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars).
+To learn more about starring repositories, read ["Saving Repositories with Stars"](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars).
 
 #### Following users
 
@@ -108,25 +109,27 @@ A fork is another way to copy a repository, but is most commonly used when contr
 To learn more about forking, read ["For a Repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
 
 ## 📝 Assignment Tasks
-* If you weren't able to attend the May 6th lab, be sure to watch the video and follow along.
-* Your git settings should already be set from ENSF 593.
-* Clone this repository to your local computer.
-* Open VSCode and start a new terminal. Make sure that your `ensf592` environment is activated.
-* Edit the top of this `README` file to add your first and last name, and your favourite inspirational quote.
-* Edit the `assignment1code.py` file by following the instructions in the comments (add your name at the top and change the contents of `studentName` to be your name. Save.
-* Run the code by typing the command: `python assignment1code.py`  (make sure you are in the directory where the file is saved! Use cd to change directories.
-* Take a screenshot of your successful program run and upload it to your assignment repository.
-* Lastly, open the course notes in VSCode or using Anaconda (either Jupyter Lab or Jupyter Notebook is fine).
-* Take a screenshot of the welcome chapter and upload it to your assignment repository.
-* Commit your edited `README` and code files, as well as your two new screenshots.
-* Push your local git history to github: `git push origin master`
 
-## 📚  Resources
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources)
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+- If you weren't able to attend the May 6th lab, be sure to watch the video and follow along.
+- Your git settings should already be set from ENSF 593.
+- Clone this repository to your local computer.
+- Open VSCode and start a new terminal. Make sure that your `ensf592` environment is activated.
+- Edit the top of this `README` file to add your first and last name, and your favourite inspirational quote.
+- Edit the `assignment1code.py` file by following the instructions in the comments (add your name at the top and change the contents of `studentName` to be your name. Save.
+- Run the code by typing the command: `python assignment1code.py` (make sure you are in the directory where the file is saved! Use cd to change directories.
+- Take a screenshot of your successful program run and upload it to your assignment repository.
+- Lastly, open the course notes in VSCode or using Anaconda (either Jupyter Lab or Jupyter Notebook is fine).
+- Take a screenshot of the welcome chapter and upload it to your assignment repository.
+- Commit your edited `README` and code files, as well as your two new screenshots.
+- Push your local git history to github: `git push origin master`
+
+## 📚 Resources
+
+- [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
+- [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources)
+- [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+- [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
+- [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+- [GitHub's Learning Lab](https://lab.github.com/)
+- [Education community forum](https://education.github.community/)
+- [GitHub community forum](https://github.community/)
